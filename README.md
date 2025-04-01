@@ -15,7 +15,7 @@ Sou uma profissional apaixonada por tecnologia, com mais de 3 anos de experiênc
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaRosa&hide=prs,issues,contribs&show_icons=true&theme=codeSTACKr&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaRosa&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRosa&layout=compact&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 
 ## 📬 Onde me encontrar
