@@ -40,7 +40,7 @@ Sou uma profissional apaixonada por tecnologia, com mais de 3 anos de experiênc
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-rosa-oliveira-miranda/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rosa-oliveira-miranda/) 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsleety)
 
 ### 🎯 Obrigado por visitar meu perfil! 😊
