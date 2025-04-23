@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedora Front-End | Analista de Sistemas**
 
-Sou uma profissional apaixonada por tecnologia, com mais de 3 anos de experiência em desenvolvimento de software. Tenho expertise em **React, TypeScript e JavaScript**, aplicando boas práticas de desenvolvimento e versionamento de código. Atualmente, trabalho como **Analista Desenvolvedora de Sistemas na Prodabel**, onde desenvolvo soluções eficientes para atender demandas internas e gerenciais da gestão da Prefeitura de Belo Horizonte.
+Sou apaixonada por tecnologia e inovação! 🚀💜 Com mais de 3 anos de experiência em desenvolvimento de software. Tenho expertise em **React, TypeScript e JavaScript**, aplicando boas práticas de desenvolvimento e versionamento de código. Atualmente, trabalho como **Analista Desenvolvedora de Sistemas na Prodabel**, onde desenvolvo soluções eficientes para atender demandas internas e gerenciais da gestão da Prefeitura de Belo Horizonte.
 
 ## 🎓 Formação Acadêmica
 - 🎓 **Pós-graduação Lato Sensu** em Front-End Engineer - **FIAP** *(2025 - 2026)*
@@ -43,5 +43,5 @@ Sou uma profissional apaixonada por tecnologia, com mais de 3 anos de experiênc
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rosa-oliveira-miranda/) 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsleety)
 
-### 🎯 Obrigado por visitar meu perfil! 😊
+### 🎯 Obrigado por visitar meu perfil! 😊💜
 
