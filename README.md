@@ -35,8 +35,8 @@ Sou apaixonada por tecnologia e inovação! 🚀💜 Com mais de 3 anos de exper
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaRosa&show_icons=true&theme=codeSTACKr&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRosa&layout=compact&show_icons=true&theme=codeSTACKr&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaRosa&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRosa&layout=compact&show_icons=true&theme=codeSTACKr)
 
 ## 📬 Onde me encontrar
 
