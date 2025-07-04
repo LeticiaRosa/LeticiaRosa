@@ -40,8 +40,18 @@ Sou apaixonada por tecnologia e inovação! 🚀💜 Com mais de 3 anos de exper
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-rosa-oliveira-miranda/) 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsleety)
+- 💼 [LinkedIn](www.linkedin.com/in/leticia-rosa-oliveira-miranda)
+- 🐙 [GitHub](https://github.com/LeticiaRosa)
+- 🌐 [Portfolio](https://leticiarosa.github.io/)
+- 📧 [Email](mailto:leticiarosadeoliveiraa@gmail.com)
 
-### 🎯 ObrigadA por visitar meu perfil! 😊💜
+---
+
+<div align="center">
+
+**Gostou de algum projeto? Deixe uma ⭐ no repositório!**
+
+Feito com 💜 e muitas xícaras de café ☕
+
+</div>
 
