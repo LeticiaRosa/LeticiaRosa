@@ -40,7 +40,7 @@ Sou apaixonada por tecnologia e inovação! 🚀💜 Com mais de 3 anos de exper
 
 ## 📬 Onde me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/leticia-rosa-oliveira-miranda)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leticia-rosa-oliveira-miranda)
 - 🐙 [GitHub](https://github.com/LeticiaRosa)
 - 🌐 [Portfolio](https://leticiarosa.github.io/)
 - 📧 [Email](mailto:leticiarosadeoliveiraa@gmail.com)
